@@ -1,7 +1,10 @@
-.Story {
-  display: flex;
+.story-container {
   min-width: 49%;
   max-width: 49%;
+}
+
+.Story {
+  display: flex;
   height: 250px;
   border: 2px solid ghostwhite;
   margin-top: 20px;
