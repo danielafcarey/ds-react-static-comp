@@ -5,16 +5,16 @@ Modify the React Starter Kit repo to recreate the comp below based on the [proje
 
 ### Images
 Original Comp:
-![Original Comp]('./public/react-static-comp-original.png')
+![Original Comp](./public/react-static-comp-original.png)
 
 My Comp - Desktop View: 
-![Desktop]('./public/react-static-comp-desktop.png')
+![Desktop](./public/react-static-comp-desktop.png)
 
 My Comp - Tablet View: 
-![Tablet]('./public/react-static-comp-tablet.png')
+![Tablet](./public/react-static-comp-tablet.png)
 
 My Comp - Mobile View: 
-![Mobile]('./public/react-static-comp-mobile.png')
+![Mobile](./public/react-static-comp-mobile.png)
 
 
 ### Reflection
