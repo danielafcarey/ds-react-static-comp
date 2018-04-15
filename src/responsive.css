@@ -1,0 +1,89 @@
+@media only screen and (max-width: 1080px) {
+  .stories-grid {
+    flex-direction: column;;
+  }
+
+  .story-container {
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 715px) {
+  .Banner {
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  
+  .banner-left {
+    width: 100%;
+  }
+
+}
+
+@media only screen and (max-width: 550px) {
+  .Header {
+    width: 90%;
+  }
+
+  .Banner h2 {
+    font-size: 30px;
+    text-align: left;
+    letter-spacing: 1px;
+  }
+
+  .Banner p {
+    font-size: 16px;
+  }
+
+  .button {
+    width: 75px;
+  }
+
+  .Stories {
+    width: 80%;
+  }
+
+  .Story {
+    height: 150px;
+  }
+
+  .Story img {
+    width: 100px;
+  }
+
+  .story-info {
+    padding: 9px;
+  }
+
+  .story-info h3 {
+    font-size: 15px;
+  }
+
+  .story-info p {
+    font-size: 13px;
+  }  
+
+  .author-image {
+    max-width: 25px;
+    height: 25px;
+  }
+
+}
+
+@media only screen and (max-width: 425px) {
+  .Stories {
+    width: 90%;
+  }
+
+  .story-info h3 {
+    font-size: 13px;
+  }
+
+  .story-info p {
+    font-size: 12px;
+  }
+
+  .author-text h4 {
+    font-size: 11px;
+  }
+}

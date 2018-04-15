@@ -1,3 +1,13 @@
+@import './App.css';
+@import './Header.css';
+@import './Banner.css';
+@import './Button.css';
+@import './Stories.css';
+@import './Story.css';
+@import './Author.css';
+@import './Footer.css';
+@import './responsive.css';
+
 body {
   margin: 0;
   padding: 0;
